@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "100C90CE-56A0-426D-BE46-D489BE973D97"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3CD8F832-2EAF-402C-89F8-70D888AD29CA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "apresentationVivoEasy/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "MountainBike"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3CD8F832-2EAF-402C-89F8-70D888AD29CA - 2d0c117e52defe3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "apresentationVivoEasy.MountainBike.__allocating_init() -&gt; apresentationVivoEasy.MountainBike"
+                  moduleName = "apresentationVivoEasy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/barbaraannpereiralima/Documents/Developer/apresentationVivoEasy/apresentationVivoEasy/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "3CD8F832-2EAF-402C-89F8-70D888AD29CA - b0be07d546c43a10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "apresentationVivoEasy.MountainBike.init() -&gt; apresentationVivoEasy.MountainBike"
+                  moduleName = "apresentationVivoEasy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/barbaraannpereiralima/Documents/Developer/apresentationVivoEasy/apresentationVivoEasy/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "38">
+               </Location>
+               <Location
+                  uuid = "3CD8F832-2EAF-402C-89F8-70D888AD29CA - 91983c0c4f415ed2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "apresentationVivoEasy.MountainBike.deinit"
+                  moduleName = "apresentationVivoEasy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/barbaraannpereiralima/Documents/Developer/apresentationVivoEasy/apresentationVivoEasy/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "3CD8F832-2EAF-402C-89F8-70D888AD29CA - 8012a2d362fc8e76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "apresentationVivoEasy.MountainBike.__deallocating_deinit"
+                  moduleName = "apresentationVivoEasy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/barbaraannpereiralima/Documents/Developer/apresentationVivoEasy/apresentationVivoEasy/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

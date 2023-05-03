@@ -1,11 +1,26 @@
-//
-//  main.swift
-//  apresentationVivoEasy
-//
-//  Created by Barbara Ann Pereira Lima on 11/04/23.
-//
 
-import Foundation
+//contrato, uma assinatura
 
-print("Hello, World!")
+protocol CanAcellerate {
+  
+    func acellerate ()
+}
 
+//deve ser implementado por todos os veículos que podem acelerar
+
+class Vehicle: CanAcellerate {
+    func acellerate() {
+        
+    }
+}
+
+class MountainBike: Vehicle {
+   
+    var pedaling = false
+    override func acellerate() {
+        pedaling = true
+       print("A mountain Bike esta se movimentando")
+    }
+}
+
+  
